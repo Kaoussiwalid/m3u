@@ -41,5 +41,7 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8
 #EXTINF:0 CUID="3" tvg-name="MBC 5 5" group-title="ARABIC MOROCCO",MBC MASR DRAMA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6598222de81b0e4508b/index.m3u8
+#EXTINF:0 CUID="3" tvg-name="MBC 5 5" group-title="ARABIC MOROCCO",IQRAA
+https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv2/playlist.m3u8
 
 
