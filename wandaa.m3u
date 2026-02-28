@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 1233
+#EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 2
 http://canal-pro.xyz:8080/984230672tv1/u543pcx25/278528
-#EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 12388
+#EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 3
 http://canal-pro.xyz:8080/984230672tv1/u543pcx25/278529
-#EXTINF:0 CUID="27" tvg-name="2M MAROC HD" group-title="ARABIC MOROCCO",2M MAROC 2
+#EXTINF:0 CUID="27" tvg-name="2M MAROC HD" group-title="ARABIC MOROCCO",2M MAROC 4
 http://ultrax.online:8080/953438116tv/6j7q4k/278528
-#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",2M MAROCC
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",2M MAROCC 5
 http://ultrax.online:8080/953438116tv/6j7q4k/278530
-#EXTINF:0 CUID="3" tvg-name="2M MAROC SNS" group-title="ARABIC MOROCCO",2M MAROC
+#EXTINF:0 CUID="3" tvg-name="2M MAROC SNS" group-title="ARABIC MOROCCO",2M MAROC 6
 http://69973.unimaster.us/live/ilkemaydin/kaltvYayin661/317189.ts
 #EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",Al Oula FHD
 http://69973.unimaster.us/live/ilkemaydin/kaltvYayin661/317178.ts
