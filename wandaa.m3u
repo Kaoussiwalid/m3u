@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:0 CUID="27" tvg-name="2M MAROC 1" group-title="ARABIC MOROCCO",2M MAROC 1
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:0 CUID="27" tvg-name="2M MAROC HD" group-title="ARABIC MOROCCO",2M MAROC 2
+http://ultrax.online:8080/953438116tv/6j7q4k/278528
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",2M MAROCC
+http://ultrax.online:8080/953438116tv/6j7q4k/278530
+#EXTINF:0 CUID="3" tvg-name="2M MAROC SNS" group-title="ARABIC MOROCCO",2M MAROC
+http://69973.unimaster.us/live/ilkemaydin/kaltvYayin661/317189.ts
+http://extarv3.me/live/bigoudine_410904/H9PD1M6s/1058126.ts
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",2M MAROC 3
+http://link4tv.me:80/7t5Zgx4dU2/ebMwMqTCx7/1101875.m3u8
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",Al Oula FHD
+http://69973.unimaster.us/live/ilkemaydin/kaltvYayin661/317178.ts
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",Al Oula 2 FHD
+http://ultrax.online:8080/953438116tv/6j7q4k/278533
+#EXTINF:0 CUID="28" tvg-name="2M MAROC 2" group-title="ARABIC MOROCCO",MBC 1
+https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:0 CUID="45" tvg-name="Al Jazeera Arabic" group-title="News",Al Jazeera Arabic (1080p)
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0 CUID="46" tvg-name="Al Jazeera Documentary (270p) [Geo-blocked]" group-title="News",Al Jazeera Documentary (270p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:0 CUID="47" tvg-name="Al Jazeera Mubasher (1080p)" group-title="News",Al Jazeera Mubasher (1080p)
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0 CUID="79" tvg-name="MBC Drama KSA (1080p)" group-title="Entertainment",MBC Drama KSA (1080p)
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0 CUID="77" tvg-name="MBC 5 (1080p)" group-title="Family",MBC 5 (1080p)
+http://vipboacnn.top:8080/VIP011931735294162287/baac9caeb154/130788
+#EXTINF:0 CUID="3" tvg-name="MBC 5" group-title="ARABIC MOROCCO",MBC 5 1
+http://vipboacnn.top:8080/VIP011931735294162287/baac9caeb154/130787
+#EXTINF:0 CUID="3" tvg-name="MBC 5 2" group-title="ARABIC MOROCCO",MBC 5 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+#EXTINF:0 CUID="3" tvg-name="MBC 5 3" group-title="ARABIC MOROCCO",MBC 5 UG
+http://ugeen.live:8080/live/kaicer_VIPvkq9xi/mg8v73/2114.ts
+#EXTINF:0 CUID="3" tvg-name="QURAN" group-title="ARABIC MOROCCO",QURAN
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:0 CUID="78" tvg-name="SUNNA" group-title="Movies",SUNNA
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:0 CUID="3" tvg-name="MBC 5 5" group-title="ARABIC MOROCCO",MBC MASR
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+#EXTINF:0 CUID="3" tvg-name="MBC 5 5" group-title="ARABIC MOROCCO",MBC MASR DRAMA
+http://vipboacnn.top:8080/VIP011931735294162287/baac9caeb154/6427
+
+
+
